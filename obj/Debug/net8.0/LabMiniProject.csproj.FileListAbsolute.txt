@@ -1,0 +1,15 @@
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.sourcelink.json
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\bin\Debug\net8.0\LabMiniProject.exe
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\bin\Debug\net8.0\LabMiniProject.deps.json
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\bin\Debug\net8.0\LabMiniProject.runtimeconfig.json
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\bin\Debug\net8.0\LabMiniProject.dll
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\bin\Debug\net8.0\LabMiniProject.pdb
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.dll
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\refint\LabMiniProject.dll
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.pdb
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\LabMiniProject.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Solutions\LabMiniProject\obj\Debug\net8.0\ref\LabMiniProject.dll
